@@ -25,3 +25,7 @@ local.properties
 
 # Android Studio generated files and folders
 captures/
+
+# Intellij project files
+.idea/
+
